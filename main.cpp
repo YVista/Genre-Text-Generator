@@ -10,7 +10,7 @@
 #include <ctime>
 #include <cstdlib>
 #include <stdio.h>
-#include "gufeng.h"
+#include "gufeng.h" // 在此行替换词库
 using namespace std;
 
 #define ARR_LEN(array, length){ length =  sizeof(array) / sizeof(array[0]); }
