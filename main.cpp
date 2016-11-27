@@ -10,22 +10,23 @@
 #include <ctime>
 #include <cstdlib>
 #include <stdio.h>
-#include "gufeng baixue.h"
+#include "gufeng.h"
 using namespace std;
 
 #define ARR_LEN(array, length){ length =  sizeof(array) / sizeof(array[0]); }
+
 int main()
-{       int ch1_len, ch2_len, ch4_len, sen_len;
+{   int ch1_len, ch2_len, ch4_len, sen_len;
     string ch1_ran, ch2_ran, ch4_ran, sen_ran;
     ARR_LEN(ch1, ch1_len);
     ARR_LEN(ch2, ch2_len);
     ARR_LEN(ch4, ch4_len);
     ARR_LEN(sen, sen_len);
     int sen_t, ch1_t, ch2_t, ch4_t;
+    srand(time(0));       // 种子
     cout<<"按回车键继续生成，按其他键加回车退出"<<endl;
     while( getchar()=='\n')
-    {   srand(time(0));       // 种子
-        sen_t = rand() % sen_len;       // 给sen的随机序数
+    {   sen_t = rand() % sen_len;       // 给sen的随机序数
         sen_ran=sen[sen_t]; //sen中的随机项
         string::size_type pos_ch4=sen_ran.find("xxxx");
         while (pos_ch4 != string::npos)
