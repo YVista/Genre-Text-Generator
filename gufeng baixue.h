@@ -2,8 +2,8 @@
 //  古风白学词库.h
 //  Genre Text Generator
 //
-//  Created by Zeng Lu on 16/11/27.
-//  Copyright © 2016年 Lu Zeng. All rights reserved.
+//  Created by Y.Vista on 16/11/27.
+//  Copyright © 2016年 Y.Vista. All rights reserved.
 //
 
 using namespace std;
