@@ -8,7 +8,7 @@
 
 using namespace std;
 
-string sen[]={"用我三生xx，换你一世xx","我xxxx，xxxx","xxx，xxx，你xxxx","终是谁使xx，xxxx，xxxx","多少xxx，多少xxx，唯留xxxxxxx","任他xxxx，为你xxxx","xxxx，不问xxxx","谁xxxx，x了xx的xx","待xxxx俱尽，伴君xx","xxxx，xxxx，三世xxxx，一朝xxxx","谁x了谁的xx谁又x了谁的xx","世界上最xx的xx，是一个人的xx","你没想像中那么xx，xx唤不回你的xx","xxxx，xxxx，歌不尽","xx是一段xx，xx是一段xx","xxx奈何xxx","xxxx的x，怎敌你xxxx","记得xxxx，几许xxxx","xxxx已成非，xxxx人xx","回思xx，始信xxxx","我终生的xx，换不来你刹那的xx","终于为那xxxxxxxx，xxxx，不过一场，xxxx"};
+string sen[]={"用我三生xx，换你一世xx","我xxxx，xxxx","xxx，xxx，你xxxx","终是谁使xx，xxxx，xxxx","多少xxx，多少xxx，唯留xxxxxxx","任他xxxx，为你xxxx","xxxx，不问xxxx","谁xxxx，x了xx的xx","待xxxx俱尽，伴君xx","xxxx，xxxx，三世xxxx，一朝xxxx","谁x了谁的xx谁又x了谁的xx","世界上最xx的xx，是一个人的xx","你没想像中那么xx，xx唤不回你的xx","xxxx，xxxx，歌不尽xxxx","xx是一段xx，xx是一段xx","xxx奈何xxx","xxxx的x，怎敌你xxxx","记得xxxx，几许xxxx","xxxx已成非，xxxx人xx","回思xx，始信xxxx","我终生的xx，换不来你刹那的xx","终于为那xxxxxxxx，xxxx，不过一场，xxxx"};
 
 
 /* 素材
